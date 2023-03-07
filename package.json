@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/vepaks/portfolio-resume#readme",
   "dependencies": {
+    "clipboard": "^2.0.11",
     "prettier": "^2.8.4"
   }
 }
